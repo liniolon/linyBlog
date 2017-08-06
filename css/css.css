@@ -1,0 +1,83 @@
+/* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+  .navbar-back{
+    background-color: #F1F1F1;
+    color: #FFFFFF;
+  }
+    .row.content {height: 1500px}
+
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+      font-family: Vazir;
+    }
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+
+    small {
+
+
+      word-spacing: 1.5px;
+    }
+    body{
+      font-family: Vazir;
+    }
+    .right{
+      direction: rtl;
+    }
+
+    .label-primary{
+      border-radius: 70px;
+    }
+    .label-success{
+        border-radius: 70px;
+      }
+    .label-danger{
+      border-radius: 70px;
+    }
+    .label-warning{
+      border-radius: 70px;
+    }
+    .btn-warning-1{
+      border-radius: 70px;
+      padding: 4px 4px;
+    }
+    .btn-primary-1{
+      border-radius: 70px;
+      padding: 4px 4px;
+    }
+    .btn-success-1{
+      border-radius: 70px;
+      padding: 4px 4px;
+    }
+
+    .btn-info-1{
+      border-radius: 70px;
+      padding: 4px 4px;
+    }
+
+    .btn-danger-1{
+      border-radius: 70px;
+      padding: 4px 4px;
+    }
+    .register
+    {
+      padding-top: 250px;
+    }
+    .big{
+      font-size: 32px;
+      font-style: bold;
+      text-align: center;
+      direction: rtl;
+    }
+
+    .half
+    {
+      height: 320px;
+      width: 320px;
+    }
